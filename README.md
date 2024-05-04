@@ -34,7 +34,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvkote&show_icons=true&locale=en&layout=compact" alt="atharvkote" /></p>
 
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvkote&show_icons=true&locale=en" alt="atharvkote" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvkote&" alt="atharvkote" /></p>
