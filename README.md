@@ -1,6 +1,7 @@
 <h1 align="center">Hi👋,I'm Atharva Kote</h1>
 <h3 align="center">A Passionate Computer Engineer | Programming Enthusiast | Python Developer | DSA In Java | Frontend Developer | Tech Enthusiast |</h3>
-<img align ="right" alt="codinggif" src="https://images.app.goo.gl/uYU4WmWXWUey9ZVU7"
+<img align ="right" alt="codinggif" src="programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvkote&label=Profile%20views&color=0e75b6&style=flat" alt="atharvkote" /> </p>
 
