@@ -15,9 +15,9 @@
   **🔗 Email : atharvkote3@gmail.com**
 
 - 📄 Find Me Online On LinkedIn<br>
-  📍[Get My Linked Profile & Certifications](https://www.linkedin.com/in/atharvakote)
+ 📍[Get My Linked Profile & Certifications](https://www.linkedin.com/in/atharvakote)
 
-- ⚡ Fun fact **Coders Can Smile 🙂**
+- ⚡ Fun fact<br>**Coders Can Smile 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
