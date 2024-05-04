@@ -5,15 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvkote&label=Profile%20views&color=0e75b6&style=flat" alt="atharvkote" /> </p>
 
-- 🔭 I’m Currently Studying at [Sanjivani College Of Engineering,Kopargaon](https://sanjivanicoe.org.in)
+- 🔭 I’m Currently Studying at <br>➡️[Sanjivani College Of Engineering ](https://sanjivanicoe.org.in)
 
-- 🌱 I’m currently Pursuing **B.TECH IN Computer Science**
+- 🌱 I’m currently Pursuing<br>🔸️**B.Tech in Computer Science**
 
-- 💬 Ask me about **Tech Community, C Programming Languages,Front End Development Languages,Python Programming language**
+- 💬 Ask me about :<br>🔸️**Web Development, Cloud  Computing,Software Development,Artificial Intelligence,Data Science, MachingLearning**
 
-- 📫 How to reach me **atharvkote3@gmail.com**
+- 📫 How to reach me<br>
+  **🔗 Email : atharvkote3@gmail.com**
 
-- 📄 Find Me Online On LinkedIn [https://www.linkedin.com/in/atharvakote](https://www.linkedin.com/in/atharvakote)
+- 📄 Find Me Online On LinkedIn<br>
+  📍[Get My Linked Profile & Certifications](https://www.linkedin.com/in/atharvakote)
 
 - ⚡ Fun fact **Coders Can Smile 🙂**
 
