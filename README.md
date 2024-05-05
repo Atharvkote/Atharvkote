@@ -1,7 +1,7 @@
 ![logo](banner.png)
 <h1 align="center">Hi👋,I'm Atharva </h1>
 <h3 align="center">A Passionate Computer Engineer | Programming Enthusiast | Python Developer | DSA In Java | Frontend Developer | Tech Enthusiast |</h3>
-<img align ="right" alt="codinggif" src="coding.gif"
+<img align ="right" alt="codinggif"height ="250" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvkote&label=Profile%20views&color=0e75b6&style=flat" alt="atharvkote" /> </p>
 
