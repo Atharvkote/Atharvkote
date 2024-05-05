@@ -62,7 +62,7 @@
   <h3> Hope You Like the Profile ,Make Sure You Follow For more Interesting Content 🙃</h3>
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
-
+<hr>
 ### How to reach me :mailbox:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](@AtharvKotetelegram)
  <br> 
