@@ -3,7 +3,6 @@
 <h3 align="center">A Passionate Computer Engineer | Programming Enthusiast | Python Developer | DSA In Java | Frontend Developer | Tech Enthusiast |</h3>
 <img align ="right" alt="codinggif"height ="250" src="coding.gif">
 
-
 - 🔭 **I’m Currently Studying at**<br>💼Sanjivani College Of Engineering Kopargaon<br>🔗[Official Website](https://sanjivanicoe.org.in)
 
 - 🌱 **I’m currently Pursuing**<br>➡️ B.Tech in Computer Science
