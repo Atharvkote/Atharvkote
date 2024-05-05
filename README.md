@@ -65,3 +65,6 @@
 
 ### How to reach me :mailbox:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](@AtharvKotetelegram)
+ <br> <img src="https://img.shields.io/badge/Email-atharvkote3@gmail.com-red" /><br>
+  <a href="https://www.linkedin.com/in/atharvakote"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
+
