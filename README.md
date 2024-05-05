@@ -12,13 +12,8 @@
 
 - 💬 **Ask me about :**<br>Front End Development,Cloud Computing, Software Development, Artificial Intelligence, Data Science and MachingLearning.
 
-- 📫 **How to reach me**<br>📍**Email : atharvkote3@gmail.com**
-
-- 📄 **Find Me Online On LinkedIn**<br>🔗LinkedIn : [ Atharva Kote ](https://www.linkedin.com/in/atharvakote)
 
 - ⚡ **Fun fact :**<br>Coders Can Smile 🙂
-- 🪧 Find Me on Instagram:<br>
-  🔅Instagram : [@___atharv_81](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -41,7 +36,7 @@
 
   | AWS Cloud|  CSS3 | Google CLOUD| HTML | REACT |
 |----------|------------|----------|-----|--------| 
-|<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> |<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/> </a>| <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>  |<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> |
+|<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="85" height="85"/> </a> |<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/> </a>| <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>  |<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> |
 </div>
 <hr>
 <p align="center">
@@ -67,3 +62,6 @@
   <h3> Hope You Like the Profile ,Make Sure You Follow For more Interesting Content 🙃</h3>
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+
+### 📫 **How to reach me**
+📍**Email : atharvkote3@gmail.com**
