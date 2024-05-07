@@ -14,6 +14,8 @@
 
 
 - ⚡ **Fun fact :**<br>Coders Can Smile 🙂
+###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81)
+Trying My Best to Get Into it and Get Used this Kinda Platforms
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -38,6 +40,7 @@
 |----------|------------|----------|-----|--------| 
 |<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="85" height="85"/> </a> |<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/> </a>| <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>  |<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> |
 </div>
+
 <hr>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Atharvkote&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
