@@ -70,6 +70,5 @@ Trying My Best to Get Into it and Get Used this Kinda Platforms
 ### How to reach me :mailbox:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](@AtharvKotetelegram)
  <br> 
- <a href="atharvkote3@gmail.com"><img src="https://img.shields.io/badge/Email-atharvkote3@gmail.com-red" /></a><br>
-  <a href="https://www.linkedin.com/in/atharvakote"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
-
+ <a href="mailto:atharvkote3@gmail.com"><img src="https://img.shields.io/badge/Email-atharvkote3@gmail.com-red" /></a><br>
+  <a href="https://www.linkedin.com/in/atharva-kote"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
