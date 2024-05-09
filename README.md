@@ -46,6 +46,14 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
   | Twitter | LinkedIn | LEETCode | GeeksForGeeks |
 |----------|------------|----------|-----|
 | <a href="https://x.com/ImAtharva81?t=3SywXf6b45TbPBMZ7w3lsQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamatharva81" height="45" width="45" /></a> |<a href="https://www.linkedin.com/in/atharvakote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva kote" height="45" width="45" /></a>   |<a href="https://www.leetcode.com/atharva kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://auth.geeksforgeeks.org/user/atharvykny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvykny" height="55" width="55" /></a> |
+
+### OS :
+<div>
+   
+| Linux | Ubuntu |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+</div>
 <hr>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Atharvkote&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
