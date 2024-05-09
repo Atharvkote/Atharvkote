@@ -31,8 +31,17 @@ Trying My Best to Get Into it and Get Used this Kinda Platforms
 | Python3 | C | JS | Java |
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
+</div>
 
+### Tools I Use 
+
+<div>
+    
+| Conda | Jupyter | VsCode | Spyder |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder" alt="Spyder" width="55" height="55"/>|
   </div>
+  
 <h3 align="left">Other Languages :</h3>
 <div>
 
@@ -54,9 +63,7 @@ Trying My Best to Get Into it and Get Used this Kinda Platforms
   <hr>
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvkote&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
- 
 <hr>
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=orange" alt=""/>
 </div>
