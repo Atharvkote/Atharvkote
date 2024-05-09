@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋 There </h1>
 <img align ="right" alt="codinggif"height ="250" src="coding.gif">
 
-### 🚀 About Me
+### 🚀 About Me :
 <div>
 <p>
 I 'm Atharva From Maharashtra,India. A Passionate and Driven Computer Engineer ,Programming Enthusiast,Python Developer, DSA In Java,Frontend Developer,Tech Enthusiast 
