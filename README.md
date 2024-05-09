@@ -1,16 +1,15 @@
-![logo](banner.png)
-<h1 align="center">Hi👋,I'm Atharva </h1>
-<h3 align="center">A Passionate and Driven Computer Engineer | Programming Enthusiast | Python Developer | DSA In Java | Frontend Developer | Tech Enthusiast |</h3>
+
+<h1 align="center">Hi👋 There </h1>
 <img align ="right" alt="codinggif"height ="250" src="coding.gif">
 
-
-<h2> About Me :</h2>
-
+### 🚀 About Me
+<div>
 <p>
-I 'm Atharva From Maharashtra,India. Energetic and Detail-Oriented Computer Engineering Student.
+I 'm Atharva From Maharashtra,India. A Passionate and Driven Computer Engineer ,Programming Enthusiast,Python Developer, DSA In Java,Frontend Developer,Tech Enthusiast 
 On a Journey to bridge the Digital Realm.From Coding Adventures in Programming Languages like C, C++ JAVA , Python and many more, to Hardware Explorations!!, I thrive on the dynamic fusion of Bits and Bytes. Eager to embrace challenges, contribute Fresh Perspectives, and grow with the ever-evolving TECH Landscape.
    
 </p>
+</div>
 
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81)
 Trying My Best to Get Into it and Get Used this Kinda Platform.
