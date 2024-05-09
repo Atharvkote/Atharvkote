@@ -70,8 +70,8 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 </p>
 <hr>
 
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/AtharvKote)
- <br> 
- <a href="mailto:atharvkote3@gmail.com"><img src="https://img.shields.io/badge/Email-atharvkote3@gmail.com-red" /></a><br>
-  <a href="https://www.linkedin.com/in/atharva-kote"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
+## 🔗 Links
+[![Telegram](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://t.me/AtharvKote)<br>
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kote)<br>
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImAtharva81)
+
