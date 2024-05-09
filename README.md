@@ -7,8 +7,8 @@
 <h2> About Me :</h2>
 
 <p>
-<strong>I 'm Atharva From Shirdi , Maharashtra . Energetic and Detail-Oriented Computer Engineering Student.
-On a Journey to bridge the Digital Realm.From Coding Adventures in Programming Languages like C, C++ JAVA , Python and many more, to Hardware Explorations!!, I thrive on the dynamic fusion of Bits and Bytes. Eager to embrace challenges, contribute Fresh Perspectives, and grow with the ever-evolving TECH Landscape.</strong>
+I 'm Atharva From Shirdi , Maharashtra . Energetic and Detail-Oriented Computer Engineering Student.
+On a Journey to bridge the Digital Realm.From Coding Adventures in Programming Languages like C, C++ JAVA , Python and many more, to Hardware Explorations!!, I thrive on the dynamic fusion of Bits and Bytes. Eager to embrace challenges, contribute Fresh Perspectives, and grow with the ever-evolving TECH Landscape.
    
 </p>
 
