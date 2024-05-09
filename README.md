@@ -49,9 +49,9 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 ### OS :
 <div>
    
-| Windows 11| Linux | Ubuntu | 
+| Window11| Linux | Ubuntu | 
 |----------|----------|----------|
-| <img src="" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 </div>
 <hr>
 <p align="center">
