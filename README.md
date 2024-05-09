@@ -4,25 +4,16 @@
 <img align ="right" alt="codinggif"height ="250" src="coding.gif">
 
 
+<h2> About Me :</h2>
 
+<p>
+<strong>I 'm Atharva From Shirdi , Maharashtra . Energetic and Detail-Oriented Computer Engineering Student.
+On a Journey to bridge the Digital Realm.From Coding Adventures in Programming Languages like C, C++ JAVA , Python and many more, to Hardware Explorations!!, I thrive on the dynamic fusion of Bits and Bytes. Eager to embrace challenges, contribute Fresh Perspectives, and grow with the ever-evolving TECH Landscape.</strong>
+   
+</p>
 
-- 🔭 **I’m Currently Studying at**<br>💼Sanjivani College Of Engineering Kopargaon<br>🔗[Official Website](https://sanjivanicoe.org.in)
-
-- 🌱 **I’m currently Pursuing**<br>➡️ B.Tech in Computer Science
-
-- 💬 **Ask me about :**<br>Front End Development,Cloud Computing, Software Development, Artificial Intelligence, Data Science and MachingLearning.
-
-
-- ⚡ **Fun fact :**<br>Coders Can Smile 🙂
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81)
-Trying My Best to Get Into it and Get Used this Kinda Platforms
-
-<h3 align="left">Connect with me:</h3>
-<div>
-
-  | Twitter | LinkedIn |Instagram | YouTube | LEETCode | GeeksForGeeks |
-|----------|------------|----------|-----|--------|--------|
-| <a href="https://x.com/ImAtharva81?t=3SywXf6b45TbPBMZ7w3lsQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamatharva81" height="45" width="45" /></a> |<a href="https://www.linkedin.com/in/atharvakote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://instagram.com/___atharv_81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___atharv_81" height="45" width="45" /></a> |<a href="https://www.youtube.com/c/atharv kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atharv kote" height="45" width="45" /></a> |<a href="https://www.leetcode.com/atharva kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://auth.geeksforgeeks.org/user/atharvykny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvykny" height="55" width="55" /></a> |
+Trying My Best to Get Into it and Get Used this Kinda Platform.
 
 ### Languages & Tools
 
@@ -49,7 +40,12 @@ Trying My Best to Get Into it and Get Used this Kinda Platforms
 |----------|------------|----------|-----|--------| 
 |<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="85" height="85"/> </a> |<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/> </a>| <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>  |<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> |
 </div>
+<h3 align="left">Connect with me:</h3>
+<div>
 
+  | Twitter | LinkedIn |Instagram | YouTube | LEETCode | GeeksForGeeks |
+|----------|------------|----------|-----|--------|--------|
+| <a href="https://x.com/ImAtharva81?t=3SywXf6b45TbPBMZ7w3lsQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamatharva81" height="45" width="45" /></a> |<a href="https://www.linkedin.com/in/atharvakote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://instagram.com/___atharv_81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___atharv_81" height="45" width="45" /></a> |<a href="https://www.youtube.com/c/atharv kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atharv kote" height="45" width="45" /></a> |<a href="https://www.leetcode.com/atharva kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://auth.geeksforgeeks.org/user/atharvykny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvykny" height="55" width="55" /></a> |
 <hr>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Atharvkote&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
