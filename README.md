@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 There </h1>
-<img align ="right" alt="codinggif"height ="250" width="500"src="Assests/coding.gif">
+<img align ="right" alt="codinggif"height ="250" src="Assests/coding.gif">
 
 ### 🚀 About Me :
 <div>
@@ -61,10 +61,10 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 ---
 
 
-<p align="center">
+<p align="center" justifycontent="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Atharvkote&show_icons=true&theme=vision-friendly-dark">
   <hr>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvkote&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img algin= "center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvkote&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 <hr>
 <div id="header" align="center">
