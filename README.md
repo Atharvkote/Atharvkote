@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 There </h1>
-<img align ="right" alt="codinggif"height ="250" src="coding.gif">
+<img align ="right" alt="codinggif"height ="250" src="Assests/coding.gif">
 
 ### 🚀 About Me :
 <div>
