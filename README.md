@@ -72,7 +72,7 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 </div>
 <hr>
 <p align="center">
-  <h3> Hope You Like the Profile ,Make Sure You Follow For more Interesting Content 🙃</h3>
+  <h3> Hope You Enjoyed the Profile ,Make Sure You Follow For more Interesting Content 😃</h3>
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 </p>
 
