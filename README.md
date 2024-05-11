@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 There </h1>
-<img align ="right" alt="codinggif"height ="250" src="coding.gif">
+
 
 ### 🚀 About Me :
 <div>
@@ -61,10 +61,10 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 ---
 
 
-<p align="center">
+<p align="center" justifycontent="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Atharvkote&show_icons=true&theme=vision-friendly-dark">
   <hr>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvkote&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img algin= "center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvkote&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 <hr>
 <div id="header" align="center">
@@ -73,7 +73,7 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 <hr>
 <p align="center">
   <h3> Hope You Like the Profile ,Make Sure You Follow For more Interesting Content 🙃</h3>
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 </p>
 
 
@@ -81,8 +81,11 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AtharvKote)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kote)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImAtharva81)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:atharvkote3@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/user/1238159826748702824)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
 
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
