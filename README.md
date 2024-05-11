@@ -89,10 +89,3 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</div>
-
-
