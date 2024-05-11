@@ -82,7 +82,13 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kote)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImAtharva81)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </div>
+
+
