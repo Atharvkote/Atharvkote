@@ -73,7 +73,7 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 <br/>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
