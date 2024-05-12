@@ -55,24 +55,24 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 </div>
-<hr>
+
+<br>
+<h2 align="center">⚡️Stats⚡️</h2>
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Atharvkote&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
----
-
-
 <p align="center" justifycontent="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Atharvkote&show_icons=true&theme=vision-friendly-dark">
-  <hr>
+  
   <img algin= "center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvkote&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
-<hr>
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=orange" alt=""/>
 </div>
-<hr>
+
 <p align="center">
   <h3> Hope You Enjoyed the Profile ,Make Sure You Follow For more Interesting Content 😃</h3>
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
