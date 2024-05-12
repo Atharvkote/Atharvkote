@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+👋+There+!!!;" />
 </h1>
 
-
 ### 🚀 About Me :
 <div>
 <p>
@@ -70,7 +69,12 @@ Trying My Best to Get Into it and Get Used this Kinda Platform.
     <br/>
 </div>
 
-<br/><br/>
+<br/>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <p align="center">
   <h3> Hope You Enjoyed the Profile ,Make Sure You Follow For more Interesting Content 😃</h3>
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
