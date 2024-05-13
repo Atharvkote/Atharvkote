@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+👋🏻+There+!!!!&color=white" />
 </h1>
 
-### 🚀 About Me :
+### About Me🚀:
 <div>
 <p>
 I 'm Atharva From Maharashtra,India. A Passionate and Driven Computer Engineer ,Programming Enthusiast,Python Developer, DSA In Java,Frontend Developer,Tech Enthusiast 
@@ -13,7 +13,12 @@ On a Journey to bridge the Digital Realm.From Coding Adventures in Programming L
 </p>
 </div>
 
-###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81)
+### Working On⚡️: 
+    
+- Teawking This [Readme file](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
+- [Project](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management for Local Businesses 
+
+###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡:
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 
 ### Languages & Tools
@@ -54,14 +59,6 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 | Window11| Linux | Ubuntu | 
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
-</div>
-
-## Working On 🚀
-<div>
-    
-- Teawking This [Readme file](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
-- [Project](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management for Local Businesses 
-
 </div>
 
 <br>
