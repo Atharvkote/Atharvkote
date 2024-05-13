@@ -14,7 +14,7 @@ On a Journey to bridge the Digital Realm.From Coding Adventures in Programming L
 </div>
 
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81)
-Trying My Best to Get Into it and Get Used this Kinda Platform.
+Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 
 ### Languages & Tools
 
