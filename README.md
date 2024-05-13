@@ -56,6 +56,14 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 </div>
 
+## Working On 🚀
+<div>
+    
+- Teawking This [Readme file](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
+- [Project](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management for Local Businesses 
+
+</div>
+
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
