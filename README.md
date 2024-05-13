@@ -16,7 +16,7 @@ On a Journey to bridge the Digital Realm.From Coding Adventures in Programming L
 ### Working On⚡️: 
     
 - Teawking This [Readme file](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
-- [Project](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management for Local Businesses 
+- [Project](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management System for Local Businesses 
 
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡:
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
