@@ -10,7 +10,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### About Me🚀:
+### About Me 🚀
 <div>
 <p>
 I 'm Atharva From Maharashtra,India. A Passionate and Driven Computer Engineer ,Programming Enthusiast,Python Developer,Frontend Developer,Tech Enthusiast 
@@ -19,15 +19,15 @@ On a Journey to bridge the Digital Realm.From Coding Adventures in Programming L
 </p>
 </div>
 
-### Working On⚡️: 
+### Working On ⚡️
     
 - Tweaking This [Readme file](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - [Project](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management System for Local Businesses 
 
-###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡:
+###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 
-### Languages & Tools
+### Languages 💡
 
 <div>
   
@@ -36,7 +36,8 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="Solidity" width="55" height="55"/>|
 </div>
 
-### Tools I Use 
+### Tools I Use 🛠 
+
 
 <div>
     
@@ -45,21 +46,21 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="65" height="65"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder" alt="Spyder" width="55" height="55"/>|
   </div>
   
-<h3 align="left">Other Languages & Tools:</h3>
+<h3 align="left">Other Languages & Tools 🔎</h3>
 <div>
 
   | AWS CLOUD | HTML5 | Cascading StyleSheet | REACT |
 |----------|------------|----------|-----|
 |<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a>  | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>  |<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a>|<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> |
 </div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 📪</h3>
 <div>
 
   | Twitter | LinkedIn | LEETCode | GeeksForGeeks |
 |----------|------------|----------|-----|
 | <a href="https://x.com/ImAtharva81?t=3SywXf6b45TbPBMZ7w3lsQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamatharva81" height="45" width="45" /></a> |<a href="https://www.linkedin.com/in/atharvakote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva kote" height="45" width="45" /></a>   |<a href="https://leetcode.com/u/AtharvaKote81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://auth.geeksforgeeks.org/user/atharvykny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvykny" height="55" width="55" /></a> |
 
-### OS :
+### OS 🖥
 <div>
    
 | Window11| Linux | Ubuntu | 
