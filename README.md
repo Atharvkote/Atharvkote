@@ -80,6 +80,8 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=orange" alt=""/>
 </div>
+<a href="http://www.github.com/Atharvkote"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Atharvkote&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <p align="center">
   <h3> Hope You Enjoyed the Profile ,Make Sure You Follow For more Interesting Content 😃</h3>
