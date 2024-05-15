@@ -63,7 +63,7 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Atharvkote&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
     <br/>
