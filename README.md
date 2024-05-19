@@ -12,7 +12,7 @@
 ### About Me 🚀
 <div>
 <p>
-I 'm Atharva From Maharashtra,India. A Passionate and Driven Computer Engineer ,Programming Enthusiast,Python Developer,Frontend Developer,Tech Enthusiast 
+I'm Atharva From India. A Passionate and Driven Computer Engineer,Had Done DSA In Java,A Python Dev,Tech Enthusiast.
 On a Journey to bridge the Digital Realm.From Coding Adventures in Programming Languages like C, C++ JAVA , Python and many more, to Hardware Explorations!!, I thrive on the dynamic fusion of Bits and Bytes. Eager to embrace challenges, contribute Fresh Perspectives, and grow with the ever-evolving TECH Landscape.
    
 </p>
