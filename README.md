@@ -26,6 +26,10 @@ On a Journey to bridge the Digital Realm.From Coding Adventures in Programming L
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 
+<h2 align="center">⚡️My Stack⚡️</h2>
+
+Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
+
 ### Languages 💡
 
 <div>
