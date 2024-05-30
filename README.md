@@ -39,6 +39,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="Solidity" width="55" height="55"/>|
 </div>
 
+### Libraries 
+| Numpy | Pandas |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="C"  alt="C" width="55" height="55"/> | 
 ### Tools 🛠 
 
 
