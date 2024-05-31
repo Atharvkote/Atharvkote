@@ -96,7 +96,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <br/>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=orange&border_radius=20" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blue&border_radius=20" alt=""/>
 </div>
 
 <p align="center">
