@@ -93,16 +93,16 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 [![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-<br/>
+<h2 align="center">⚡️Visitors⚡️</h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blue&border_radius=20" alt=""/>
 </div>
 
-<p align="center">
-  <h3> Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content 😃</h3>
+
+<h3>Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content⚡️</h3>
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
-</p>
+
 
 
 ## 🔗 Links
