@@ -12,9 +12,8 @@
 ### About Me 🚀
 <div>
 <p>
-I'm Atharva From India. A Passionate and Driven Computer Engineer,Had Done DSA In Java,A Python Dev,Tech Enthusiast.
-On a Journey to bridge the Digital Realm.From Coding Adventures in Programming Languages like C, C++ JAVA , Python and many more, to Hardware Explorations!!, I thrive on the dynamic fusion of Bits and Bytes. Eager to embrace challenges, contribute Fresh Perspectives, and grow with the ever-evolving TECH Landscape.
-   
+I am Atharva from Shirdi, Maharashtra, an energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm.
+Currently seeking opportunities to learn and grow, I aim to invest that knowledge in many innovations.   
 </p>
 </div>
 
