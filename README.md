@@ -47,7 +47,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <div>
     
-| Anaconda | Jupyter | VsCode | Spyder | Git(VCs) | IntelliJIDE |
+| Anaconda | Jupyter | VsCode | Spyder | Git(VCs) | IntelliJ (JetBrains) |
 |--------|--------|----------|----------|----------|--------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="65" height="65"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder" alt="Spyder" width="55" height="55"/>|<a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/> </a> |<a href="https://reactdhdjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="55" height="55"/> </a>|
   </div>
@@ -55,7 +55,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 ### Other Languages & Tools 🔎
 <div>
 
-  | AWS CLOUD | HTML5 | Cascading StyleSheet | 
+  | AWS CLOUD | HTML | CSS3 | 
 |-------------|------------|-----|
 |<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a>  | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>  |<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a>|
 </div>
@@ -63,7 +63,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 ### Socials & Competitives 📪
 <div>
 
-  | Twitter | LinkedIn | LEETCode | GeeksForGeeks |Stack Overflow |
+  | Twitter | LinkedIn | LEETCode | GFORG |Stack Overflow |
 |----------|---------|--------|----------|-----|
 | <a href="https://x.com/ImAtharva81?t=3SywXf6b45TbPBMZ7w3lsQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamatharva81" height="45" width="45" /></a> |<a href="https://www.linkedin.com/in/atharvakote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva kote" height="45" width="45" /></a>   |<a href="https://leetcode.com/u/AtharvaKote81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://auth.geeksforgeeks.org/user/atharvykny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvykny" height="55" width="55" /></a> |<a href="https://stackoverflow.com/users/25127888/atharva-kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="atharvykny" height="55" width="55" /></a> |
 
