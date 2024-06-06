@@ -31,43 +31,39 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 ### Languages 💡
 
-<div>
-  
-| Python3 | C | JS | Java |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="Solidity" width="55" height="55"/>|
-</div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
+  </a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50"></a>
+
 
 ### Libraries 📚
-| Numpy | Pandas |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="C"  alt="C" width="55" height="55"/> | 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas)
+
 ### Tools 🛠 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,idea" />
+  </a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" width="50"></a>
 
-
-<div>
-    
-| Anaconda | Jupyter | VsCode | Spyder | Git(VCs) | IntelliJ (JetBrains) |
-|--------|--------|----------|----------|----------|--------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="65" height="65"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder" alt="Spyder" width="55" height="55"/>|<a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/> </a> |<a href="https://reactdhdjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="55" height="55"/> </a>|
-  </div>
-
-### Socials & Competitives 📪
-<div>
-
-  | Twitter | LinkedIn | LEETCode | GFORG |Stack Overflow |
-|----------|---------|--------|----------|-----|
-| <a href="https://x.com/ImAtharva81?t=3SywXf6b45TbPBMZ7w3lsQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamatharva81" height="45" width="45" /></a> |<a href="https://www.linkedin.com/in/atharvakote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva kote" height="45" width="45" /></a>   |<a href="https://leetcode.com/u/AtharvaKote81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva kote" height="45" width="45" /></a> |<a href="https://auth.geeksforgeeks.org/user/atharvykny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvykny" height="55" width="55" /></a> |<a href="https://stackoverflow.com/users/25127888/atharva-kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="atharvykny" height="55" width="55" /></a> |
-
+  
+### Competitive Coding Platforms
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
+### Connect With Me 📪
+  
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
+   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ImAtharva81)
+    [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/25127888/atharva-kote)
+     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)]((mailto:atharvkote3@gmail.com))
+  
 ### OS 🖥
-<div>
+ [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
    
-| Window11| Linux | Ubuntu | 
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
-</div>
 
-<br>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align=center>
