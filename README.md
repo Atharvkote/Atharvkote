@@ -46,7 +46,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   </a>
   
 ### Competitive Coding Platforms
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
 ### Socials 📪
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
