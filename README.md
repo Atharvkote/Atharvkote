@@ -38,15 +38,15 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 
 ### Libraries 📚
-| Numpy | Pandas |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="C"  alt="C" width="55" height="55"/> | 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas)
+
 ### Tools 🛠 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,idea" />
   </a>
   
 ### Competitive Coding Platforms
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)
 ### Socials 📪
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
