@@ -45,21 +45,22 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,git" />
   </a>
-
-### Socials & Competitives 📪
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram,stackoverflow" />
-  </a>
+  
+### Competitive Coding Platforms
+### Socials 📪
+  
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
   
 ### OS 🖥
-<div>
+ [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
    
-| Window11| Linux | Ubuntu | 
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
-</div>
 
-<br>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align=center>
