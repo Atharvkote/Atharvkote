@@ -47,12 +47,13 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   
 ### Competitive Coding Platforms
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
-### Socials 📪
+### Connect With Me 📪
   
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-    [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
+   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ImAtharva81)
+    [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/25127888/atharva-kote)
+     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)]((mailto:atharvkote3@gmail.com))
   
 ### OS 🖥
  [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
