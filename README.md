@@ -46,7 +46,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,idea" />
   </a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" width="50"></a>
-
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spyder-dark.svg" width="50"></a>
   
 ### Competitive Coding Platforms
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
