@@ -12,8 +12,8 @@
 ### About Me 🚀
 <div>
 <p>
-I am Atharva from Shirdi, Maharashtra, an energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm.
-Currently seeking opportunities to learn and grow, I aim to invest that knowledge in many innovations.   
+I am Atharva from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm.
+Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.
 </p>
 </div>
 
