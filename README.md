@@ -1,13 +1,21 @@
+<!--Header Image --->
+
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8500&lines=Welcome+to+my+GitHub+Profile!;" />
+
+<!--Welcome Prompt --->
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8500&lines=Welcome+to+my+GitHub+Profile!;" />
 </h1>
+
+<!--Github Trophies--->
 
 ### Github Trophies 🏆 
 
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--About Me Section--->
 
 ### About Me 🚀
 <div>
@@ -17,14 +25,22 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 </p>
 </div>
 
+<!--Current Status--->
+
+
 ### Working On ⚡️
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - [Project 💡](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management System for Local Businesses 
 
+<!--Competetive Coding Platforms--->
+
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 
+         <!--  Tech Stack  --->
+    <!----Gif Available in Assests--->
+    
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
 
@@ -56,7 +72,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
  [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
-   
+
+
 ### Connect With Me 📪
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
@@ -65,6 +82,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)]((mailto:atharvkote3@gmail.com))
 
+    <!--Github Profile Stats--->
+    
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align=center>
@@ -79,22 +98,26 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     <br/>
     <br/>
     
+    <!--Contributuins Graph--->
+    
 [![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
+         <!----Profile Views--->
+         
 <h2 align="center">⚡️Visitors⚡️</h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blue&border_radius=20" alt=""/>
 </div>
 
-
+    <!---snake gif Available in Assests-->
 <h3>
 Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content⚡️</h3>
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 
-
-
+   <!-----Community Links---->
+   
 ## 🔗 Links
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AtharvKote)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvakote)
@@ -104,6 +127,7 @@ Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content�
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/user/1238159826748702824)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
 
+<!----footer animations---->
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
