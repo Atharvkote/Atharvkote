@@ -84,7 +84,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!--Github Profile Stats--->
     
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><img src="Assests/giphy.gif" height="40"/> Stats <img src="Assests/giphy.gif" height="40"/></h2>
 <br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Atharvkote&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
@@ -97,6 +97,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     
     
 <!--Contributuins Graph--->
+
 <h2 align="center">⚡️Commit Stats⚡️</h2>
 
 [![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
