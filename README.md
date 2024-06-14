@@ -82,7 +82,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)]((mailto:atharvkote3@gmail.com))
 
-    <!--Github Profile Stats--->
+<!--Github Profile Stats--->
     
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
@@ -98,12 +98,13 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     <br/>
     <br/>
     
-    <!--Contributuins Graph--->
-    
+<!--Contributuins Graph--->
+<h2 align="center">⚡️Commit Stats⚡️</h2>
+
 [![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-         <!----Profile Views--->
+<!----Profile Views--->
          
 <h2 align="center">⚡️Visitors⚡️</h2>
 
@@ -111,12 +112,13 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blue&border_radius=20" alt=""/>
 </div>
 
-    <!---snake gif Available in Assests-->
+<!---snake gif Available in Assests-->
+
 <h3>
 Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content⚡️</h3>
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 
-   <!-----Community Links---->
+<!-----Community Links---->
    
 ## 🔗 Links
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AtharvKote)
