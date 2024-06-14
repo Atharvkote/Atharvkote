@@ -38,8 +38,8 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 
-         <!--  Tech Stack  --->
-    <!----Gif Available in Assests--->
+<!--  Tech Stack  --->
+<!----Gif Available in Assests--->
     
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
