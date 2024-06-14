@@ -74,7 +74,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Atharvkote&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
   <br/>
     <br/>
-   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvkote&size_weight=0.0005&count_weight=0.3&layout=compact&theme=react&border_radius=17&hide_border=false">
+   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Atharvkote&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <br/>
     <br/>
     <br/>
     
