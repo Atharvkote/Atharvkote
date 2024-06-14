@@ -84,7 +84,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!--Github Profile Stats--->
     
-<h2 align="center"><img src="Assests/giphy.gif" height="40"/> Stats <img src="Assests/giphy.gif" height="40"/></h2>
+<h2 align="center"> Stats </h2>
 <br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Atharvkote&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
