@@ -98,7 +98,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     
 <!--Contributuins Graph--->
 
-<h2 align="center">⚡️Commit Stats⚡️</h2>
+<h2 align="center">⚡️GitHub Commits⚡️</h2>
 
 [![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
