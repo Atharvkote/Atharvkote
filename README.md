@@ -126,8 +126,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
 
 <!----footer animations---->
-<h3>
-Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content⚡️</h3>
+<h3 align ="center">
+Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content</h3>
 <p align="center"><img src="Assests/Gojo.jpg"></p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
