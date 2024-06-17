@@ -81,7 +81,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ImAtharva81)
     [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/25127888/atharva-kote)
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
-    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)]((mailto:atharvkote3@gmail.com))
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:atharvkote3@gmail.com)
 
 <!--Github Profile Stats--->
     
