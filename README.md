@@ -101,7 +101,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <h2 align="center">⚡️GitHub Commits⚡️</h2>
 
-[![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph">
 </div>
 
 <!----Profile Views--->
@@ -129,7 +129,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <!----footer animations---->
 <h3 align ="center">
 Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content</h3>
-<p align="center"><img src="Assests/Gojo.jpg" height=300 width=100%></p>
+<p align="center"><img src="Assests/Gojo.jpg" height=250 width=100%></p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
