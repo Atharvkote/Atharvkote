@@ -120,17 +120,6 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 
-<!-----Community Links---->
-   
-## 🔗 Links
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AtharvKote)
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvakote)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImAtharva81)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:atharvkote3@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/user/1238159826748702824)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
-
 <!----footer animations---->
 <h3 align ="center">
 Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content</h3>
