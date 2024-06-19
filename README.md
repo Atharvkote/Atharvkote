@@ -60,6 +60,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 ### Libraries 📚
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas)
+
 <!---
 ### Tools 🛠 
   <a href="https://skillicons.dev">
@@ -72,13 +73,14 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 ### Competitive Coding Platforms
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
   <a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50"></a> 
+
 <!-- 
 ### OS 🖥
  [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
-
 -->
+
 ### Connect With Me 📪
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
@@ -111,7 +113,6 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <!----Profile Views--->
          
 <h2 align="center">⚡️Still Counting⚡️</h2>
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
@@ -121,6 +122,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <a href="https://github.com/Atharvkote?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Atharvkote?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 
