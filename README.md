@@ -122,7 +122,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!----footer animations---->
 <h3 align ="center">
-Hope You Enjoyed the Profile Make Sure You Follow For more Interesting Content</h3>
+Hope You Loved the Profile Make Sure You Follow For more Interesting Content</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
