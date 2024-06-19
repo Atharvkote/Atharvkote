@@ -57,24 +57,25 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 ### Libraries 📚
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas)
-
+<!---
 ### Tools 🛠 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,idea,sublime" />
   </a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spyder-dark.svg" width="50"></a>
+-->
   
 ### Competitive Coding Platforms
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
   <a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50"></a> 
- 
+<!-- 
 ### OS 🖥
  [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 
-
+-->
 ### Connect With Me 📪
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
