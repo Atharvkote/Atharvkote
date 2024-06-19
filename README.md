@@ -28,16 +28,19 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 <!--Current Status--->
 
 
+
 ### Working On ⚡️
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - [Project 💡](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management System for Local Businesses
 - Learning [Pandas](https://github.com/Atharvkote/Pandas) 🐼
 
+
 <!--Competetive Coding Platforms--->
 
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
+
 
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
@@ -124,6 +127,6 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <!----footer animations---->
 <h3 align ="center">
 Hope You Loved the Profile Make Sure You Follow For more Interesting Content</h3>
-
+<img src="Assests/divider1.png">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
