@@ -109,7 +109,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <h2 align="center">⚡️Still Counting⚡️</h2>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blue&border_radius=20" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=orange" alt=""/>
 </div>
 <p align="center">
   <a href="https://github.com/Atharvkote?tab=repositories&sort=stargazers">
