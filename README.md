@@ -113,7 +113,9 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!----Profile Views--->
          
-<h2 align="center">⚡️Still Counting⚡️</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30"/>
+Still Counting <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /></h2>
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
