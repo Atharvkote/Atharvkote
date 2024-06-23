@@ -55,7 +55,6 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
   </a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50"></a>
 
 
 ### Libraries 📚
