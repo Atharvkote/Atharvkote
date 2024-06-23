@@ -135,26 +135,6 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 Hope You Loved the Profile Make Sure You Follow For more Interesting Content</h3>
 <img src="Assests/divider1.png">
 
-```css
-public class MyLife {
-    public static void main(String[] args) {
 
- // 🚀 Striving for perfection, one line of code at a time.
-
-        while (codeQuality < perfection) {
-            codeQuality++; // Incrementing code quality 🔝
-        }
-
-        // 🌟 Lifelong coder on a journey of constant improvement.
-        while (alive) {
-            eat();  // Fuel for the coding engine 🍕
-            sleep();  // Recharging for epic code adventures 💤
-            code();  // Crafting software magic ✨
-            }
-
-// 👨‍💻 Proudly crafting elegant solutions in the digital realm.
-       }
-}
-```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
