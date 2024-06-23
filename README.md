@@ -12,7 +12,7 @@
 
 <!--Github Trophies--->
 
-### Github Trophies 🏆 
+### Github Trophies <img src="Assests/Trophy.gif" height="35"/>
 
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -114,8 +114,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!----Profile Views--->
          
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30"/>
-Still Counting <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /></h2>
+<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/>
+ Still Counting <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blueviolet" alt=""/>
