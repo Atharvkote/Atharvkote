@@ -122,7 +122,7 @@ Still Counting <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/An
 </div>
 <p align="center">
   <a href="https://github.com/Atharvkote?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Atharvkote"/></a>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Atharvkote?color=12AD2B&logo=github&style=for-the-badge&logoColor=181717" >
   <a href="https://github.com/Atharvkote?tab=followers"><img
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
