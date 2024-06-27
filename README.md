@@ -133,12 +133,12 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 
 <!----footer animations---->
 <h3 align ="center">
-Hope You Loved the Profile Make Sure You Follow For more Interesting Content</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content+&color=00bfbf"></h3>
 
 <img src="Assests/GreenBanner.gif"/>
 </p>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=6BAF1E"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf"/>
 </h3>
 <img src="Assests/divider1.png">
