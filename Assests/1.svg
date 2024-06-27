@@ -1,0 +1,14 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+        .title {
+            font-family: 'Righteous', sans-serif;
+            font-size: 48px; /* H3 equivalent */
+            fill: #00bfbf;
+        }
+    </style>
+    <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle" class="title">
+        Github Trophies
+    </text>
+</svg>
