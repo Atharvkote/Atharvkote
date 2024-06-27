@@ -1,7 +1,6 @@
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
-
         .title {
             font-family: 'Righteous', sans-serif;
             font-size: 48px; /* H3 equivalent */
