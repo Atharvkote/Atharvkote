@@ -96,7 +96,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 <br/>
 <div align=center>
-  <img width=390  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Atharvkote&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
+  <img width=390  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Atharvkote&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9" alt="streak stats"/>
     <br/>
     <br/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Atharvkote&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20" alt="readme stats" />
@@ -122,9 +122,9 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 </div>
 <p align="center">
   <a href="https://github.com/Atharvkote?tab=repositories&sort=stargazers">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Atharvkote?color=12AD2B&logo=github&style=for-the-badge&logoColor=181717" >
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
   <a href="https://github.com/Atharvkote?tab=followers"><img
-src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 
 </p>
 
