@@ -4,9 +4,9 @@
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">--->
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;Hope+Your+Doing+Well+!!!!!+&color=00bfbf"/>
-</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;Hope+Your+Doing+Well+!!!!!+&color=00bfbf)
+<img src="Assests/divider1.png">
 
 <!--Github Trophies--->
 
@@ -133,7 +133,5 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 <img src="Assests/GreenBanner.gif"/>
 </p>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content;Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf"/>
-</h3>
+![footer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content;Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf)
 <img src="Assests/divider1.png">
