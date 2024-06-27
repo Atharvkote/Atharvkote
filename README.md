@@ -117,7 +117,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
  Still Counting <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=00bfbf" alt=""/>
 </div>
 <p align="center">
   <a href="https://github.com/Atharvkote?tab=repositories&sort=stargazers">
