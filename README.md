@@ -127,9 +127,6 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 
 </p>
 
-<!---snake gif Available in Assests-->
- <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
-
 
 <h2 align="center"  >🔅 Top Repositories 🔅</h2>
 <p align="center">
@@ -142,3 +139,6 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 
 ![footer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content;Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf)
 <img src="Assests/divider1.png">
+
+<!---snake gif Available in Assests-->
+ <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
