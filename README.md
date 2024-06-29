@@ -10,7 +10,7 @@
 
 <!--Github Trophies--->
 
-### Github Trophies <img src="Assests/Trophy.gif" height="35"/>
+### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>
 
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -29,7 +29,7 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 
 
 
-### Working On ⚡️
+### Working On <img  src="Assests/giphy.gif" height="35"/>
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - [Project 💡](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management System for Local Businesses
