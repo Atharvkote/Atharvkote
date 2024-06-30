@@ -29,7 +29,7 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 
 
 
-### Working On <img  src="Assests/giphy.gif" height="35"/>
+### Working On ⚡️
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - [Project 💡](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management System for Local Businesses
@@ -69,7 +69,7 @@ Here Are My Few Technical Assests [Languages](#languages), Libraries I know,Tool
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spyder-dark.svg" width="50"></a>
 -->
   
-### Competitive Coding Platforms
+### Competitive Coding Platforms 📈
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
    <a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50"></a> 
    <!--  <a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="Assests/gog.svg" width="50"></a> --->
