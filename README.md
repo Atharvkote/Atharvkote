@@ -48,7 +48,7 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
 
-Here Are My Few Technical Assests [Languages](###languages💡), Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
+Here Are My Few Technical Assests [Languages](#Languages💡), [Libraries](#Libararies📚) I know,[Tools](#ConnectWithMe📫) I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
 
 <h3>Languages 💡</h3>
 
