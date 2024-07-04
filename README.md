@@ -90,7 +90,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 ### Achievements <img  src="Assests/Trophy.gif" height="35"/>
 Here Are My Few Achievements⚡️,a Lot more coming in future for sure.✅️
-##### AWS CLOUD FOUNDATION Badge :
+##### AWS Cloud Foundation Badge :
 <img src="Assests/Cloud.jpg" height=100 width =100>
 
 ##### LeetCode Badges :
