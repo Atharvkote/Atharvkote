@@ -17,7 +17,7 @@
 
 <!--About Me Section--->
 
-### About Me 🚀
+### About Me <img  src="Assests/rocket.gif" height="35"/>
 <div>
 <p>
 I am Atharva from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm.
