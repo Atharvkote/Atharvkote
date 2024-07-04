@@ -12,7 +12,6 @@
 
 ### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>
 
-    
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--About Me Section--->
@@ -89,6 +88,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:atharvkote3@gmail.com)
 
+### Achievements <img  src="Assests/Trophy.gif" height="35"/>
+Here Are My Few Achievements⚡️,a Lot more coming in future for sure.✅️
+##### AWS CLOUD FOUNDATION Badge :
+<img src="Assests/Cloud.jpg" height=100 width =100>
 <!--Github Profile Stats--->
     
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
