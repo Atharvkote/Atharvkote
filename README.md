@@ -92,6 +92,9 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 Here Are My Few Achievements⚡️,a Lot more coming in future for sure.✅️
 ##### AWS CLOUD FOUNDATION Badge :
 <img src="Assests/Cloud.jpg" height=100 width =100>
+
+##### LeetCode Badges :
+<img src="Assests/6Jun.png" height=70 width =70><img src="Assests/50Days.png" height=70 width =70>
 <!--Github Profile Stats--->
     
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
