@@ -134,7 +134,7 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 </p>
 
 
-<h2 align="center"  >🔅 Top Repositories 🔅</h2>
+<h2 align="center"  >💡 Top Repositories 💡</h2>
 <p align="center">
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Atharvkote/Data-Structures-Algorithms)
