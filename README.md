@@ -94,7 +94,8 @@ Here Are My Few Achievements⚡️,a Lot more coming in future for sure.✅️
 <img src="Assests/Cloud.jpg" height=100 width =100>
 
 ##### LeetCode Badges :
-<img src="Assests/6Jun.png" height=70 width =70><img src="Assests/50Days.png" height=70 width =70>
+<a href="https://leetcode.com/u/AtharvaKote81">
+<img src="Assests/6Jun.png" height=70 width =70><img src="Assests/50Days.png" height=70 width =70></a>
 <!--Github Profile Stats--->
     
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
