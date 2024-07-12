@@ -80,22 +80,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
  [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 -->
 
-### Connect With Me 📪
-  
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
-   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ImAtharva81)
-    [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/25127888/atharva-kote)
-     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
-    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:atharvkote3@gmail.com)
 
-### Achievements <img  src="Assests/Trophy.gif" height="35"/>
-Here Are My Few Achievements⚡️,a Lot more coming in future for sure.✅️
-##### AWS Cloud Foundation Badge :
-<img src="Assests/Cloud.jpg" height=100 width =100>
-
-##### LeetCode Badges :
-<a href="https://leetcode.com/u/AtharvaKote81">
-<img src="Assests/6Jun.png" height=70 width =70><img src="Assests/50Days.png" height=70 width =70></a>
 <!--Github Profile Stats--->
     
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
@@ -108,16 +93,6 @@ Here Are My Few Achievements⚡️,a Lot more coming in future for sure.✅️
   <br/>
     <br/>
    <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Atharvkote&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></br>
-
-
-<!--Contributuins Graph--->
-
-<!--<h2 align="center"><img src="Assests/giphy.gif" width="30"> My GitHub Commits <img src="Assests/giphy.gif" width="30"></h2>-->
-</br>
-<p align=center>
-<img width=340 src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false&border_radius=200">
-</p>
-
 <!----Profile Views--->
          
 <h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/>
@@ -133,22 +108,24 @@ Here Are My Few Achievements⚡️,a Lot more coming in future for sure.✅️
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 
 </p>
-
-
-<h2 align="center"  >💡 Top Repositories 💡</h2>
-<p align="center">
-    
+<!--<h2 align="center"  >💡 Top Repositories 💡</h2>
+<p align="center">   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Atharvkote/Data-Structures-Algorithms)
 </p>
 <!----footer animations---->
-<img src="Assests/GreenBanner.gif"/>
-</p>
 
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
  
-![footer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content;Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf)
-
+<!---![footer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content;Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf)
+-->
+### Connect With Me 📪
+  
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
+   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ImAtharva81)
+    [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/25127888/atharva-kote)
+     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:atharvkote3@gmail.com)
  
 <img src="Assests/divider1.png">
 
