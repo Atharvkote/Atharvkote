@@ -37,9 +37,14 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 
 <!--Competetive Coding Platforms--->
 
-###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 📡
+###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 
+<!---[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)(https://leetcode.com/u/AtharvaKote81)<br>--->
 Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
+### Other Coding Platforms 👨‍💻
 
+| Hacker Rank | GeeksForGeeks |
+|-------------|---------------|
+|<div align ="center"><a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50"></a></div>|<div align ="center"><a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="Assests/gog.svg" width="50"></a></div> |
 
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
@@ -68,10 +73,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spyder-dark.svg" width="50"></a>
 -->
   
-### Competitive Coding Platforms 📈
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
-   <a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50"></a> 
-   <!--  <a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="Assests/gog.svg" width="50"></a> --->
+
+   <!--  --->
 
 <!-- 
 ### OS 🖥
