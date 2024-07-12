@@ -54,8 +54,6 @@ Check out my LeetCode profile to see my solved problems, submissions, and rankin
 
 Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
 
-<h3>Languages 💡</h3>
-
   <table align="center">
   <tr>
      <td align="center" width="96">
