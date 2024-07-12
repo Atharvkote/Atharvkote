@@ -56,14 +56,74 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <h3>Languages 💡</h3>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
-  </a>
-
-
-### Libraries 📚
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas)
-
+  <table align="center">
+  <tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd67c91-6e7d-42fc-b588-86e506676d14" width="48" height="48" />
+      <br>Java
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c" width="48" height="48" />
+      <br>Python
+     </td>
+<td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/fcce21a0-f16a-41c1-8d8d-6cafbf163808" width="48" height="48" />
+      <br>C
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/07f475af-fc15-4838-b404-a23995c94fe7" width="48" height="48" />
+      <br>HTML
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/6906984c-a907-4d73-a91f-c6d6f541ca3c" width="48" height="48" />
+      <br>CSS
+     </td>
+      </tr>
+      <tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="48" height="48" />
+      <br>Javascript
+     </td>
+  <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/2a39e1cf-520c-4e1a-a0a3-bbab7980bd20" width="48" height="48" />
+      <br>Numpy
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/8fbc8651-1687-4327-99e6-a868a6837c5f" width="48" height="48" />
+      <br>Pandas
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="48" height="48" />
+      <br> Markdown
+     </td>
+<td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/31228512-8823-4df0-9a06-01db09557686" width="48" height="48" />
+      <br>Matplotlib
+     </td>
+      </tr>
+      <tr>
+<td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/ab4d451a-4cf6-454d-b434-4db314d88eef" width="48" height="48" />
+    <br>VSCode
+</td>  
+<td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/63854b18-4f14-46f8-9504-0b260fce20bd" width="48" height="48" />
+      <br>Git
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="48" height="48" />
+      <br>GitHub
+     </td>
+<td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/5161460f-2317-492f-9829-3f17c683102b" width="48" height="48" />
+      <br>Ubuntu
+     </td>
+<td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/1bb8c369-dfa3-4def-8f8a-363ec2c12821" width="48" height="48" />
+      <br>Windows
+     </td>
+</tr>
+<table>
 <!---
 ### Tools 🛠 
   <a href="https://skillicons.dev">
