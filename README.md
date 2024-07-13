@@ -157,8 +157,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 </p>
 <!----Profile Views--->
          
-<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/>
- Still Counting <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
+<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=00bfbf" alt=""/>
