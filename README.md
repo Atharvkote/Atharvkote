@@ -42,10 +42,9 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 Check out my <a href="https://leetcode.com/u/AtharvaKote81">![leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=leetcode)</a>
  profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 ### Other Coding Platforms 👨‍💻
+<a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50">
 
-| Hacker Rank | GeeksForGeeks |
-|-------------|---------------|
-|<div align ="center"><a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50"></a></div>|<div align ="center"><a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="Assests/gog.svg" width="50"></a></div> |
+<!--<a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="Assests/gog.svg" width="50"></a>-->
 
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
