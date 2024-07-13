@@ -169,7 +169,22 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <a href="https://github.com/Atharvkote?tab=followers"><img
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 
+## <img  src="Assests/rocket.gif" height="35"/> Top Repos <img  src="Assests/rocket.gif" height="35"/>
 </p>
+<p align="center">
+<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
+<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Atharvkote&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
+</p>
+ <p align="center">
+<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Waterfalls-India&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
+<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Online-Market-Place&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
+</p>
+
+[![More](https://img.shields.io/badge/-More%20Repos-00bfbf?style=for-the-badge&logo=github)](https://github.com/Atharvkote?tab=repositories)
+
+
+
+
 <!--<h2 align="center"  >💡 Top Repositories 💡</h2>
 <p align="center">   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Atharvkote/Data-Structures-Algorithms)
