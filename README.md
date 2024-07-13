@@ -1,11 +1,9 @@
 <!--Header Image --->
 <img src="Assests/header.png">
+
 <!--Welcome Prompt --->
-<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">--->
-
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;Hope+Your+Doing+Well+!!!!!;Welcome+To+Github+Profile+😎+&color=00bfbf)
+
 <img src="Assests/divider1.png">
 
 <!--Github Trophies--->
@@ -25,9 +23,6 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 </div>
 
 <!--Current Status--->
-
-
-
 ### Working On ⚡️
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
@@ -42,9 +37,10 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 Check out my <a href="https://leetcode.com/u/AtharvaKote81">![leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=leetcode)</a>
  profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 ### Other Coding Platforms 👨‍💻
-<a href="https://www.hackerrank.com/profile/atharvkote3"><img src="Assests/HackerRank.svg" width="50">
 
-<!--<a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="Assests/gog.svg" width="50"></a>-->
+- Follow me on GeeksForGeeks:<a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="https://img.shields.io/badge/-GeeksforGeeks-228B22?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a></br>
+    - Where a Post Interesting Fact,Tip and Advancements in the Field of Tech, alsoyou can go through my solved problems and other insights
+- Witness My Languages Certifications on Hacker Rank  : <a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="https://img.shields.io/badge/-Hacker%20Rank-4CBB17?style=for-the-badge&logo=hackerrank&logoColor=white&labelColour=000000"></a>
 
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
