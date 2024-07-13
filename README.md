@@ -39,7 +39,8 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 
 <!---[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)(https://leetcode.com/u/AtharvaKote81)<br>--->
-Check out my LeetCode profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
+Check out my <a href="https://leetcode.com/u/AtharvaKote81">![leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=leetcode)</a>
+ profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
 ### Other Coding Platforms 👨‍💻
 
 | Hacker Rank | GeeksForGeeks |
