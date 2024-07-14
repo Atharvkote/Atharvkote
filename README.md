@@ -85,14 +85,14 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
      <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/8fbc8651-1687-4327-99e6-a868a6837c5f" width="48" height="48" />
       <br>Pandas
-     </td>
-     <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="48" height="48" />
-      <br> Markdown
-     </td>
+     </td>  
 <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/31228512-8823-4df0-9a06-01db09557686" width="48" height="48" />
       <br>Matplotlib
+     </td>
+        <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="48" height="48" />
+      <br> Markdown
      </td>
       </tr>
       <tr>
