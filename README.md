@@ -10,7 +10,7 @@
 
 ### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&rows=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--About Me Section--->
 
