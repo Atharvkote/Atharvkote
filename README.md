@@ -167,23 +167,20 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 ## <img  src="Assests/rocket.gif" height="35"/> Top Repos <img  src="Assests/rocket.gif" height="35"/>
 </p>
 <p align="center">
-<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
-<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Atharvkote&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
+<a href="https://github.com/Atharvkote/Data-Structures-Algorithms.git"><img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"></a>
+<a href="https://github.com/Atharvkote/Atharvkote.git"><img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Atharvkote&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"></a>
 </p>
  <p align="center">
-<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Waterfalls-India&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
-<img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Online-Market-Place&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
-</p>
+<a href="https://github.com/Atharvkote/Waterfalls-India.git"><img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Waterfalls-India&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"></a>
+<a href="https://github.com/Atharvkote/Online-Market-Place.git"><img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Online-Market-Place&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117">
+</p></a>
 
 [![More](https://img.shields.io/badge/-More%20Repos-00bfbf?style=for-the-badge&logo=github)](https://github.com/Atharvkote?tab=repositories)
 
 
 
 
-<!--<h2 align="center"  >💡 Top Repositories 💡</h2>
-<p align="center">   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Atharvkote/Data-Structures-Algorithms)
-</p>
+
 <!----footer animations---->
 
 <!---snake gif Available in Assests-->
