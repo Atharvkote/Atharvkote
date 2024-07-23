@@ -43,7 +43,7 @@ Check out my <a href="https://leetcode.com/u/AtharvaKote81">![leetcode](https://
 
 - Follow me on <a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="https://img.shields.io/badge/-GeeksforGeeks-228B22?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a> : </br>
     - Where a Post Interesting Fact,Tip and Advancements in the Field of Tech, alsoyou can go through my solved problems and other insights
-- Witness My Languages Certifications on <a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="https://img.shields.io/badge/-Hacker%20Rank-4CBB17?style=for-the-badge&logo=hackerrank&logoColor=white&labelColour=000000"></a>
+- Witness My Languages Certifications on <a href="https://www.hackerrank.com/profile/atharvkote3"><img src="https://img.shields.io/badge/-Hacker%20Rank-4CBB17?style=for-the-badge&logo=hackerrank&logoColor=white&labelColour=000000"></a>
 
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
