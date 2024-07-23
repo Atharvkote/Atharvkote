@@ -167,7 +167,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <a href="https://github.com/Atharvkote?tab=followers"><img
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 
-## <img  src="Assests/rocket.gif" height="35"/> Top Repos <img  src="Assests/rocket.gif" height="35"/>
+## <img  src="Assests/rocket.gif" height="35"/> Project & Top Repos <img  src="Assests/rocket.gif" height="35"/>
 </p>
 <p align="center">
 <a href="https://github.com/Atharvkote/Data-Structures-Algorithms.git"><img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"></a>
