@@ -39,7 +39,7 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 <!---[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)(https://leetcode.com/u/AtharvaKote81)<br>--->
 Check out my <a href="https://leetcode.com/u/AtharvaKote81">![leetcode](https://img.shields.io/badge/-Leetcode-FFFFFF?style=for-the-badge&logo=leetcode)</a>
  profile to see my solved problems, submissions, and rankings! Ready to tackle more challenges and improve further.
-### Other Coding Platforms 👨‍💻
+### Other Coding Platforms 🧑🏻‍💻
 
 - Follow me on <a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="https://img.shields.io/badge/-GeeksforGeeks-228B22?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a> : </br>
     - Where a Post Interesting Fact,Tip and Advancements in the Field of Tech, alsoyou can go through my solved problems and other insights
@@ -51,7 +51,7 @@ Check out my <a href="https://leetcode.com/u/AtharvaKote81">![leetcode](https://
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
 
-Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
+Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝🏻💭
 
   <table align="center">
   <tr>
