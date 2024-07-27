@@ -1,5 +1,5 @@
 <!--Header Image --->
-<img src="Assests/Steer.jpg">
+<img src="Assests/header.png">
 
 <!--Welcome Prompt --->
 <div align="center">
