@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;Hope+Your+Doing+Well+!!!!!;Welcome+To+Github+Profile+😎+&color=00bfbf)
 
 </div>
-<img src="Assests/divider1.png">
+<img src="Assests/CLine.gif">
 
 <!--Github Trophies--->
 
@@ -32,7 +32,7 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
 - [Project 💡](https://github.com/Atharvkote/Online-Market-Place.git) : Online Inventory Management System for Local Businesses
 - Learning [Pandas](https://github.com/Atharvkote/Pandas) 🐼
 
-
+<img src="Assests/CLine.gif">
 <!--Competetive Coding Platforms--->
 
 ###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 
@@ -50,7 +50,9 @@ Ready to tackle more challenges and improve further.
 
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
-    
+
+ <img src="Assests/CLine.gif">   
+ 
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
 
@@ -124,25 +126,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
      </td>
 </tr>
 <table>
-<!---
-### Tools 🛠 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,idea,sublime" />
-  </a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spyder-dark.svg" width="50"></a>
--->
-  
-
-   <!--  --->
-
-<!-- 
-### OS 🖥
- [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
--->
-
+    
 
 <!--Github Profile Stats--->
     
@@ -157,6 +141,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <p align="center">
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Atharvkote&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
 </p>
+<img src="Assests/CLine.gif">
 <!----Profile Views--->
          
 <h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
