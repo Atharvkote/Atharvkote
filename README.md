@@ -142,6 +142,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Atharvkote&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
 </p>
 <img src="Assests/CLine.gif">
+
+
 <!----Profile Views--->
          
 <h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
@@ -154,6 +156,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
   <a href="https://github.com/Atharvkote?tab=followers"><img
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
+
+<div>
+    <img src="Assests/CodeMaster.gif" height=100 width=100>
+</div>
 
 ## <img  src="Assests/rocket.gif" height="35"/> Project & Top Repos <img  src="Assests/rocket.gif" height="35"/>
 </p>
