@@ -18,11 +18,11 @@
 <!--About Me Section--->
 
 ### About Me <img  src="Assests/rocket.gif" height="35"/>
-<div>
-<p>
-I am Atharva, B.Tech undergrad at SCOE, Tech enthusiast and a Active learner from Maharashtra, India. Currently seeking opportunities to explore this ureal realm of Tech.<br>I see my self as student fueled with continuous learning, Innovative ideas and hardwork. Aiming to be great at this field !!
-</p>
-</div>
+
+
+I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 ,Tech enthusiast and a Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this ureal realm of Tech.<br>I see my self as student fueled by continuous learning, Innovative ideas and hardwork. Aiming to be great at this field !!
+
+
 
 <!--Current Status--->
 ### Working On ⚡️
