@@ -30,7 +30,7 @@ Currently seeking opportunities to learn and grow. Fueled with continuous learni
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - [Project 💡](https://github.com/Atharvkote/Zero-Hunger.git) : Zero-Hunger, A Web Applications provides Food To Needy People.
-- Learning [Pandas](https://github.com/Atharvkote/Pandas) 🐼
+
 
 <img src="Assests/CLine.gif">
 <!--Competetive Coding Platforms--->
