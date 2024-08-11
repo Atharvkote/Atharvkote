@@ -20,8 +20,7 @@
 ### About Me <img  src="Assests/rocket.gif" height="35"/>
 <div>
 <p>
-I am Atharva from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm.
-Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.
+I am Atharva, B.Tech undergrad at SCOE, Tech enthusiast and a Active learner from Maharashtra, India. Currently seeking opportunities to explore this ureal realm of Tech.<br>I see my self as student fueled with continuous learning, Innovative ideas and hardwork. Aiming to be great at this field !!
 </p>
 </div>
 
