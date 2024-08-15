@@ -157,8 +157,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 
 <div>
-    <a href="https://github.com/ether-genius">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    <a href="https://github.com/Atharvkote">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Atharva's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
     </a>
 </div>
 </div>
