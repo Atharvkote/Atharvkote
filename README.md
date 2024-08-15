@@ -157,7 +157,10 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 
 <div>
-    <img src="Assests/CodeMaster.gif" height=100 width=100>
+    <a href="https://github.com/ether-genius">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
 </div>
 
 ## <img  src="Assests/rocket.gif" height="35"/> Project & Top Repos <img  src="Assests/rocket.gif" height="35"/>
