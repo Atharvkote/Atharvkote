@@ -161,11 +161,12 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Atharva's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
     </a>
 </div>
+
+<div algin="center">
+<h2 algin="center"> <img  src="Assests/rocket.gif" height="35"/> Project & Top Repos <img  src="Assests/rocket.gif" height="35"/></h2>
+    
 </div>
 
-## <img  src="Assests/rocket.gif" height="35"/> Project & Top Repos <img  src="Assests/rocket.gif" height="35"/>
-</p>
-<p align="center">
 <a href="https://github.com/Atharvkote/Data-Structures-Algorithms.git"><img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Data-Structures-Algorithms&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"></a>
 <a href="https://github.com/Atharvkote/Atharvkote.git"><img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvkote&repo=Atharvkote&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"></a>
 </p>
