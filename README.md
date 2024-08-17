@@ -41,11 +41,6 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 
 Check out my LeetCode profile.See my solved problems, [submissions](https://leetcode.com/submissions/), and rankings! 
 Ready to tackle more challenges and improve further.
-### Other Coding Platforms 🧑🏻‍💻
-
-- Follow me on <a href="https://www.geeksforgeeks.org/user/atharvykny/"><img src="https://img.shields.io/badge/-GeeksforGeeks-228B22?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a> : </br>
-    - Where a Post Interesting Fact,Tip and Advancements in the Field of Tech, alsoyou can go through my solved problems and other insights
-- Witness My Languages Certifications on <a href="https://www.hackerrank.com/profile/atharvkote3"><img src="https://img.shields.io/badge/-Hacker%20Rank-4CBB17?style=for-the-badge&logo=hackerrank&logoColor=white&labelColour=000000"></a>
 
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
