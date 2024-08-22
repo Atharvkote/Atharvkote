@@ -11,13 +11,13 @@
 
 <!--Github Trophies--->
 
-### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>
+### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharvkote&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--About Me Section--->
 
-### About Me <img  src="Assests/rocket.gif" height="35"/>
+###  About Me  <img  src="Assests/stats.gif" height="35"/>
 
 
 I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and a Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see my self as student fueled by continuous learning, innovative ideas and hardwork. Aiming to be great at this field !!
@@ -25,7 +25,7 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 
 
 <!--Current Status--->
-### Working On ⚡️
+### Working On <img  src="Assests/activity.gif" height="35"/> 
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - [Project 💡](https://github.com/Atharvkote/Zero-Hunger.git) : Zero-Hunger, A Web Applications provides Food To Needy People.
@@ -34,7 +34,7 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 <img src="Assests/CLine.gif">
 <!--Competetive Coding Platforms--->
 
-###  Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) 
+### Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) <img  src="Assests/projects.gif" height="35"/>  
 
 <a href="https://leetcode.com/u/AtharvaKote81">![leetcode questions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharvaKote81&logo=leetcode&logoColor=yellow)</a>
 
@@ -124,7 +124,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!--Github Profile Stats--->
     
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="Assests/experience.gif" width="30"></h2>
 
 <div align=center>
 
@@ -140,7 +140,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!----Profile Views--->
          
-<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
+<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Robot" width="45"/></h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=00bfbf" alt=""/>
@@ -158,7 +158,7 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 </div>
 
 <div algin="center">
-<h2 algin="center"> <img  src="Assests/rocket.gif" height="35"/> Project & Top Repos <img  src="Assests/rocket.gif" height="35"/></h2>
+<h2 algin="center"> <img  src="Assests/academics.gif" height="35"/> Project & Top Repos <img  src="Assests/Glas.gif" height="35"/></h2>
     
 </div>
 
@@ -183,7 +183,7 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
  
 <!---![footer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content;Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf)
 -->
-### Connect With Me 📪
+### Connect With Me <img  src="Assests/Eye.gif" height="35"/>  
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ImAtharva81)
