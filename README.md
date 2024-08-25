@@ -4,11 +4,14 @@
 <!--Welcome Prompt --->
 <div align="center">
     
-<!--![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋🏻+There+!!!!;Hope+Your+Doing+Well+!!!!!;Welcome+To+Github+Profile+😎+&color=00bfbf)
---->
-<h1 align="center">Hi <img  src="Assests/Hi.gif" height="35"/>   There !!!</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=0ea691&center=true&width=1100&height=100&lines=%3C+ATHARVA+KOTE+%2F+%3E)
+
+<!--<div align="center">
+<img src="Assests/GradientLine.gif" align="center" style="width: 100%"/>
+</div>-->
+
 </div>
-<!--<img src="Assests/CLine.gif">-->
+<img src="Assests/CLine.gif">
 
 <!--Github Trophies--->
 
