@@ -128,7 +128,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!--Github Profile Stats--->
     
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="Assests/experience.gif" width="30"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
 <div align=center>
 
@@ -144,7 +144,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 <!----Profile Views--->
          
-<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Robot" width="45"/></h2>
+<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=00bfbf" alt=""/>
@@ -162,7 +162,7 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 </div>
 
 <div algin="center">
-<h2 algin="center"> <img  src="Assests/academics.gif" height="35"/> Project & Top Repos <img  src="Assests/Glas.gif" height="35"/></h2>
+<h2 algin="center"> <img  src="Assests/academics.gif" height="35"/> Project & Top Repos <img  src="Assests/academics.gif" height="35"/></h2>
     
 </div>
 
@@ -175,10 +175,6 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
 </p></a>
 
 [![More](https://img.shields.io/badge/-More%20Repos-00bfbf?style=for-the-badge&logo=github)](https://github.com/Atharvkote?tab=repositories)
-
-
-
-
 
 <!----footer animations---->
 
