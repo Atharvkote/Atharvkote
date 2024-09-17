@@ -42,7 +42,7 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 <!--
 <a href="https://leetcode.com/u/AtharvaKote81">![leetcode questions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharvaKote81&logo=leetcode&logoColor=yellow)</a>-->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/AtharvaKote81)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AtharvaKote81?ext=activity)
 
 Check out my LeetCode profile.See my solved problems, [submissions](https://leetcode.com/submissions/), and rankings! 
 Ready to tackle more challenges and improve further.
