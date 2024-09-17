@@ -44,9 +44,6 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AtharvaKote81?ext=activity)
 
-Check out my LeetCode profile.See my solved problems, [submissions](https://leetcode.com/submissions/), and rankings! 
-Ready to tackle more challenges and improve further.
-
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
 
