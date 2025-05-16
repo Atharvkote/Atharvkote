@@ -101,7 +101,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
         </td>
         <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
-          <br>Tailwind CSS
+          <br>Tailwind
         </td>
       </tr>
       <tr>
@@ -114,12 +114,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
           <br>Git
         </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-          <br>CSS
+          <img src="https://skillicons.dev/icons?i=next" width="40" height="40" alt="CSS" />
+          <br>Next.js
         </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
-          <br>Bootstrap
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Bootstrap" />
+          <br>Redux
         </td>
         <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
@@ -130,8 +130,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
           <br>Node.js
         </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-          <br>PHP
+          <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="PHP" />
+          <br>Express.js
         </td>
         <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
@@ -144,7 +144,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
       </tr>
       <tr>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
           <br>Java
         </td>
         <td align="center" width="96">
@@ -159,9 +159,32 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
           <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="REST API" />
           <br>Docker 
         </td>
+         
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+    <br>Postman
+  </td>
+ 
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" />
+    <br>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="Postman" />
+    <br>npm
+  </td>
+ 
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=pnpm" width="40" height="40" alt="Redis" />
+    <br>pnpm
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="Redis" />
+    <br>Kali Linux
+  </td>
       </tr>
     </table>
-  </div>
+  </div> 
 </table>
 
     
