@@ -47,7 +47,7 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 <a href="https://leetcode.com/u/AtharvaKote81">
     
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AtharvaKote81?theme=dark&font=DM%20Sans&ext=activity)
-![LeetCode Stats](https://leetcard.jacoblin.cool/AtharvaKote81?theme=dark&font=DM%20Sans&ext=heatmap)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/AtharvaKote81?theme=dark&font=DM%20Sans&ext=heatmap)--->
 </a>
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
