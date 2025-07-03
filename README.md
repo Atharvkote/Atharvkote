@@ -146,8 +146,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
           <br>Java
         </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-          <br>PostgreSQL
+          <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="PostgreSQL" />
+          <br>Prometheus
         </td>
         <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API" />
@@ -177,8 +177,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     <br>pnpm
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="Redis" />
-    <br>Kali Linux
+    <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Redis" />
+    <br>Grafana
   </td>
       </tr>
     </table>
