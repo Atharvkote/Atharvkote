@@ -59,133 +59,145 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 
 Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝🏻💭
 
- <table>
+<table>
   <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
+      <!-- ========== ROW 1 — LANGUAGES ========== -->
       <tr>
         <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
-          <br>React
-        </td>
-        <td align="center" width="96">
-          <a href="https://www.python.org/">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
-          </a>
-          <br>Python
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
-          <br>JavaScript
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
-          <br>C++
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="40" height="40" />
-          <br>Webpack
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
-          <br>MySQL
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40" />
-          <br>TypeScript
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />
-          <br>AWS
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
-          <br>Tailwind
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-          <br>GitHub
-        </td>
-        <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-          <br>Git
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=next" width="40" height="40" alt="CSS" />
-          <br>Next.js
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Bootstrap" />
-          <br>Redux
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-          <br>MongoDB
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-          <br>Node.js
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="PHP" />
-          <br>Express.js
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-          <br>VS Code
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" />
-          <br>Arduino
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" />
           <br>Java
         </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="PostgreSQL" />
-          <br>Prometheus
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" />
+          <br>Python
         </td>
         <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API" />
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" />
+          <br>JavaScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" />
+          <br>TypeScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" />
+          <br>C++
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" />
+          <br>React
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=next" width="40" height="40" />
+          <br>Next.js
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
+          <br>Tailwind
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40" height="40" />
+          <br>Webpack
+        </td>
+      </tr>
+      <!-- ========== ROW 2 — BACKEND + DB ========== -->
+      <tr>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+          <br>Node.js
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+          <br>Express.js
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" />
+          <br>Redux
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" />
           <br>REST API
         </td>
         <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="REST API" />
-          <br>Docker 
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" />
+          <br>MySQL
         </td>
-         
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-    <br>Postman
-  </td>
- 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" />
-    <br>Redis
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="Postman" />
-    <br>npm
-  </td>
- 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=pnpm" width="40" height="40" alt="Redis" />
-    <br>pnpm
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Redis" />
-    <br>Grafana
-  </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+          <br>MongoDB
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" />
+          <br>Redis
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" />
+          <br>Kafka
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" />
+          <br>Prometheus
+        </td>
+      </tr>
+      <!-- ========== ROW 3 — DEVOPS + TOOLS ========== -->
+      <tr>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" />
+          <br>Grafana
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" />
+          <br>Docker
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" />
+          <br>Jenkins
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" />
+          <br>G-Actions
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" />
+          <br>AWS
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+          <br>Git
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+          <br>GitHub
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
+          <br>VS Code
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
+          <br>Postman
+        </td>
+      </tr>
+      <!-- ========== ROW 4 — OS + OTHER ========== -->
+      <tr>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=pnpm" width="40" height="40" />
+          <br>pnpm
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" />
+          <br>Arduino
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
+          <br>Linux
+        </td>
       </tr>
     </table>
-  </div> 
+  </div>
 </table>
 
-    
 
 <!--Github Profile Stats--->
     
