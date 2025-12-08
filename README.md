@@ -11,7 +11,7 @@
 </div>-->
 
 </div>
-<img src="Assests/CLine.gif">
+<!-- <img src="Assests/CLine.gif"> -->
 
 <!--Github Trophies--->
 
@@ -35,14 +35,14 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 - [Project 💡](https://github.com/Atharvkote/Zero-Hunger.git) : Zero-Hunger, A Web Applications provides Food To Needy People.
 
 
-<img src="Assests/CLine.gif">
+<!-- <img src="Assests/CLine.gif"> -->
 <!--Competetive Coding Platforms--->
 
-### Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30"/>
+<!--### Find Me On [Leetcode](https://leetcode.com/u/AtharvaKote81) <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30"/>-->
 <!--
 <a href="https://leetcode.com/u/AtharvaKote81">![leetcode questions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharvaKote81&logo=leetcode&logoolor=yellow)</a>-->
 
-<img algin="center" src="Assests/2024-06.gif" height=70 width=70> <img algin="center" src="Assests/2024-50.gif" height=70 width=70 >
+<!--<img algin="center" src="Assests/2024-06.gif" height=70 width=70> <img algin="center" src="Assests/2024-50.gif" height=70 width=70 >--->
 
 <!--
 <a href="https://leetcode.com/u/AtharvaKote81">
@@ -53,7 +53,7 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
 
- <img src="Assests/CLine.gif">   
+ <!--<img src="Assests/CLine.gif">--->   
  
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
@@ -213,7 +213,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <p align="center">
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Atharvkote&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="40%"/> 
 </p>
-<img src="Assests/CLine.gif">
+<!-- <img src="Assests/CLine.gif"> -->
 
 
 <!----Profile Views--->
