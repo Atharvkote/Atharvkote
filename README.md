@@ -44,11 +44,12 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 
 <img algin="center" src="Assests/2024-06.gif" height=70 width=70> <img algin="center" src="Assests/2024-50.gif" height=70 width=70 >
 
+<!--
 <a href="https://leetcode.com/u/AtharvaKote81">
     
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AtharvaKote81?theme=dark&font=DM%20Sans&ext=activity)
+</a>--->
 <!--![LeetCode Stats](https://leetcard.jacoblin.cool/AtharvaKote81?theme=dark&font=DM%20Sans&ext=heatmap)--->
-</a>
 <!--  Tech Stack  --->
 <!----Gif Available in Assests--->
 
@@ -249,6 +250,8 @@ src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-th
     [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/25127888/atharva-kote)
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:atharvkote3@gmail.com)
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tryhackme)](https://leetcode.com/u/AtharvaKote81)
  
 <img src="Assests/divider1.png">
 
