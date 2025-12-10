@@ -9,7 +9,6 @@
 <!--<div align="center">
 <img src="Assests/GradientLine.gif" align="center" style="width: 100%"/>
 </div>-->
-
 </div>
 <!-- <img src="Assests/CLine.gif"> -->
 
@@ -32,8 +31,9 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 ### Working On <img  src="Assests/activity.gif" height="35"/> 
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
-- [Project 💡](https://github.com/Atharvkote/Zero-Hunger.git) : Zero-Hunger, A Web Applications provides Food To Needy People.
-
+- Implementing Ideas that solves a real-time solution
+- Practicing DeveOps
+- Learning Cyber Security
 
 <!-- <img src="Assests/CLine.gif"> -->
 <!--Competetive Coding Platforms--->
