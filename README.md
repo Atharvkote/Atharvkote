@@ -32,8 +32,8 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - Implementing Ideas that solves a real-time solution
-- Practicing DeveOps
-- Learning Cyber Security
+- Practicing DevOps ♾️
+- Learning Cyber Security 🔑
 
 <!-- <img src="Assests/CLine.gif"> -->
 <!--Competetive Coding Platforms--->
