@@ -4,7 +4,7 @@
 <!--Welcome Prompt --->
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=1000&color=0ea691&center=true&width=900&height=100&lines=%3C+Atharva+Kote+%2F+%3E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1400&color=00bfbf&center=true&vCenter=true&width=900&height=120&lines=Code.+Build.+Ship.;Repeat.)
 
 <!--<div align="center">
 <img src="Assests/GradientLine.gif" align="center" style="width: 100%"/>
