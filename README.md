@@ -205,7 +205,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
 <div align=center>
-
+<!--
 <p align="center">
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Atharvkote&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Atharvkote&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
@@ -213,18 +213,15 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   <p align="center">
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Atharvkote&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="40%"/> 
 </p>
+--->
 
-
-[![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
-<!-- <img src="Assests/CLine.gif"> -->
+[![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Atharvkote/Atharvkote/main/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!----Profile Views--->
          
-<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvkote&style=for-the-badge&color=00bfbf" alt=""/>
@@ -236,19 +233,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 src="https://img.shields.io/github/followers/Atharvkote?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 
 <div>
-    <a href="https://github.com/Atharvkote">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvkote&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Atharva's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
-    </a>
 </div>
 
-
-<!----footer animations---->
 
 <!---snake gif Available in Assests-->
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
  
-<!---![footer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+You+Loved+the+Profile;Make+Sure+You+Follow;For+more+Interesting+Content;Thanks+For+Visiting+😊;Happy+Coding+!!!!+&color=00bfbf)
--->
 ### Connect With Me <img  src="Assests/Eye.gif" height="35"/>  
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharvakote)
