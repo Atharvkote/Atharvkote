@@ -10,7 +10,10 @@
 
 ###  About Me  <img  src="Assests/stats.gif" height="35"/>
 
-I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and a Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see my self as student fueled by continuous learning, innovative ideas and hardwork. Aiming to be great at this field !!
+**Backend · DevOps ♾️ · System Design** <br/>
+B.Tech undergraduate at [SCOE](https://sanjivanicoe.org.in/), building and operating scalable software systems.<br/>
+
+> *Curious by nature, disciplined in effort, and consistent in learning.*
 
 <!-- ==============Current Status============= --->
 ### Working On <img  src="Assests/activity.gif" height="35"/> 
@@ -18,12 +21,13 @@ I am Atharva, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - Implementing Ideas that solves a real-time solution
 - Practicing DevOps ♾️
-- Learning Cyber Security 🔑
+- Exploring OS and kernel fundamentals 🔑
  
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
+These are the technologies I work with — languages, libraries, tools, and platforms I use regularly.
+Feel free to connect on my socials so we can share ideas and build meaningful collaborations.
 
-Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝🏻💭
 <table align="center">
 
 <!-- ========== LANGUAGES & FRONTEND ========== -->
