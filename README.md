@@ -40,7 +40,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=next" width="40"/><br>Next.js</td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40"/><br>Webpack</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
 </tr>
 
 <!-- ========== BACKEND & DATABASES ========== -->
@@ -61,20 +61,15 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="40"/><br>Grafana</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br>Jenkins</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>G-Actions</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>Actions</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/><br>AWS</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=sentry" width="40"/><br>GitHub</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=vim" width="40"/><br>Sentry</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
 </tr>
 
 <!-- ========== OS & HARDWARE ========== -->
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="40"/><br>pnpm</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br>Arduino</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
-</tr>
 
 </table>
 
