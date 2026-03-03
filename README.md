@@ -64,8 +64,8 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>Actions</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/><br>AWS</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=sentry" width="40"/><br>GitHub</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vim" width="40"/><br>Sentry</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=sentry" width="40"/><br>Sentry</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=vim" width="40"/><br>Vim</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
 </tr>
 
