@@ -1,5 +1,5 @@
 <!-- ========== HEADER IMAGE ========== -->
-<img src="Assests/header.png">
+<!-- <img src="Assests/header.png"> -->
 
 <!-- ========== WELCOME PROMPT ========== -->
 <div align="center">
