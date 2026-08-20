@@ -1,6 +1,6 @@
 <!-- ========== HEADER IMAGE ========== -->
 <!-- <img src="Assests/header.png"> -->
-
+<!-- <img  src="Assests/stats.gif" height="35"/> -->
 <!-- ========== WELCOME PROMPT ========== -->
 <div align="center">
     
@@ -8,7 +8,7 @@
 
 </div>
 
-###  About Me  <img  src="Assests/stats.gif" height="35"/>
+###  About Me  
 
 **Backend · DevOps ♾️ · System Design** <br/>
 B.Tech undergraduate at [SCOE](https://sanjivanicoe.org.in/), building and operating scalable software systems.<br/>
