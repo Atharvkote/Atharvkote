@@ -33,40 +33,40 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 <!-- ========== LANGUAGES & FRONTEND ========== -->
 <tr>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="40"/><br>Java</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40"/><br>Python</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/><br>JavaScript</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40"/><br>TypeScript</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40"/><br>C++</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=next" width="40"/><br>Next.js</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
+  <td align="center" width="96"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="40"/><br>Springboot</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/><br>REST API</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=hibernate" width="40"/><br>Hibernate</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br>Redis</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Apache Kafka</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40"/><br>RabbitMQ</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
 </tr>
 
 <!-- ========== BACKEND & DATABASES ========== -->
 <tr>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/><br>JavaScript</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40"/><br>TypeScript</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=next" width="40"/><br>Next.js</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express.js</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40"/><br>Redux</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/><br>REST API</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=sass" width="40"/><br>SasS</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwindcss" width="40"/><br>TailwindCSS</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"/><br>MySQL</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br>Redis</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Kafka</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br>Prometheus</td>
 </tr>
 
 <!-- ========== DEVOPS & TOOLS ========== -->
 <tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="40"/><br>Grafana</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="40"/><br>Grafana</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br>Jenkins</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>Actions</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/><br>AWS</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=sentry" width="40"/><br>Sentry</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=vim" width="40"/><br>Vim</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br>Prometheus</td>
 </tr>
 
 <!-- ========== OS & HARDWARE ========== -->
