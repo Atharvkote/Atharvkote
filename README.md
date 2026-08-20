@@ -37,7 +37,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/><br>REST API</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=hibernate" width="40"/><br>Hibernate</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br>Redis</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Apache Kafka</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Kafka</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40"/><br>RabbitMQ</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
