@@ -8,20 +8,19 @@
 
 </div>
 
-###  About Me  
-
+### `>  About Me`
 **Backend · DevOps ♾️ · System Design** <br/>
 B.Tech undergraduate at [SCOE](https://sanjivanicoe.org.in/), building and operating scalable software systems.<br/>
 
 > *Curious by nature, disciplined in effort, and consistent in learning.*
 
 <!-- ==============Current Status============= --->
-### Working On <img  src="Assests/activity.gif" height="35"/> 
+### `>  Working on`
     
 - Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
 - Implementing Ideas that solves a real-time solution
 - Practicing DevOps ♾️
-- Exploring OS and kernel fundamentals 🔑
+- Exploring Spring boot & microservices patterns 🔑
  
 <h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
