@@ -101,7 +101,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:atharvkote3@gmail.com)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/AtharvaKote81)
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tryhackme)](https://leetcode.com/u/AtharvaKote81)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tryhackme)](https://tryhackme.com/p/AtharvaKote)
 
  
 <img src="Assests/divider1.png">
